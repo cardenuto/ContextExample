@@ -25,6 +25,8 @@ public class Activity1 extends AppCompatActivity {
      */
     private GoogleApiClient client;
 
+    // comment added to text/document upload to GitHub
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
